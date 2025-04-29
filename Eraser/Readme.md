@@ -2,12 +2,12 @@
 
 ## Overview
 Eraser is a simple Java program that removes a specified number of spaces from the beginning of each line in a text. This is useful for cleaning up text with unnecessary indentation.
-When I was working on something I realised I need exactly that, so I wrote it as a Java program and fixed by basic issue, hope it helps.
+When I was working on something, I realized I needed exactly that, so I wrote it as a Java program and fixed the basic issue. I hope it helps.
 
 ## Features
 - Removes a user-specified number of spaces from the beginning of each line
 - If a line has fewer spaces than specified, it removes all available spaces
-- Default setting removes 8 spaces if no number is specified
+- Default setting removes eight spaces if no number is specified
 - Processes multi-line text input
 
 ## How to Use
@@ -19,7 +19,7 @@ When I was working on something I realised I need exactly that, so I wrote it as
 
 ## Example
 ```
-Give a text to remove the spaces from top:
+Give a text to remove the spaces from the top:
         This line has 8 spaces at the beginning.
             This line has 12 spaces at the beginning.
     This line has 4 spaces at the beginning.
