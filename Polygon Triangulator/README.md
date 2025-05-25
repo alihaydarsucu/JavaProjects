@@ -1,7 +1,9 @@
-# Polygon Triangulator ( ⏹ → ▲ )
+# Polygon Triangulator ( ◻️ → ▲ )
 
-<img src="outputImages/12_triangles.png" alt="Sample Output" width="300"/>
-<img src="outputImages/13_triangles.png" alt="Sample Output" width="300"/>
+<p align="center">
+<img src="outputImages/12_polygon.png" alt="Sample Output" width="400"/>
+<img src="outputImages/12_triangles.png" alt="Sample Output" width="400"/>
+</p>
 
 ## 📌 Overview
 
@@ -77,7 +79,7 @@ Example console output:
 +--------------------------------+------------------------------+
 ```
 
-## 🔍 Algorithm Details
+## 💻 Algorithm Details
 
 The triangulation uses a **recursive splitting approach** with these key features:
 
@@ -111,7 +113,7 @@ The system performs rigorous validation:
 3. **All Points Used**: No missing or extra vertices
 4. **Correct Triangle Count**: n-2 triangles for n-vertex polygon
 
-## 🌈 Visualization Examples
+## 🔍 Visualization Examples
 
 | Original Polygon                          | Triangulated Result                           |
 | ----------------------------------------- | --------------------------------------------- |
